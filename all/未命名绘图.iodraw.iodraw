@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="704" width="592" height="222" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-2" value="第四阶段: 效果优化" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="632" y="556" width="646" height="247" as="geometry" />
+          <mxGeometry x="20" y="415" width="646" height="247" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-3" value="第三阶段: 实践验证" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1298" y="390" width="417" height="264" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="1362" y="424" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-10" value="后期制作与效果评估" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="745" y="581" width="204" height="48" as="geometry" />
+          <mxGeometry x="133" y="440" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-11" value="成果总结与理论提炼" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="214" y="729" width="204" height="48" as="geometry" />
@@ -62,13 +62,13 @@
           <mxGeometry x="1550" y="581" width="130" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-20" value="剪辑实验:&#xa;- 节奏控制&#xa;- 视听融合" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="685" y="729" width="130" height="48" as="geometry" />
+          <mxGeometry x="73" y="588" width="130" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-21" value="观众反馈测试" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="865" y="729" width="156" height="48" as="geometry" />
+          <mxGeometry x="253" y="588" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-22" value="多平台适配调整" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1071" y="729" width="172" height="48" as="geometry" />
+          <mxGeometry x="459" y="588" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-23" value="总结非遗纪录片创作方法论" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="55" y="852" width="252" height="48" as="geometry" />
@@ -172,21 +172,21 @@
         <mxCell id="050BhwA-lb-3kkC8xFKn-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-10" target="050BhwA-lb-3kkC8xFKn-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="750" y="654" />
+              <mxPoint x="138" y="513" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-10" target="050BhwA-lb-3kkC8xFKn-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="943" y="654" />
+              <mxPoint x="331" y="513" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-10" target="050BhwA-lb-3kkC8xFKn-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1157" y="654" />
+              <mxPoint x="545" y="513" />
             </Array>
           </mxGeometry>
         </mxCell>
