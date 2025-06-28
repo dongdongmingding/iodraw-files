@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="T0sXWa_nDa0mTGTvXhxX-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="370" as="sourcePoint" />
-            <mxPoint x="666.4000000000001" y="150" as="targetPoint" />
+            <mxPoint x="780" y="380" as="sourcePoint" />
+            <mxPoint x="806.4000000000001" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T0sXWa_nDa0mTGTvXhxX-6" value="提出问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="T0sXWa_nDa0mTGTvXhxX-10" value="视听语言单调，缺少多样化拍摄与后期手段呈现技艺美感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T0sXWa_nDa0mTGTvXhxX-11" value="如何融合技艺与人物故事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
