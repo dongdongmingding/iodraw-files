@@ -1,0 +1,261 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="xt83zhAGFqE0JsZeTnQ-">
+    <mxGraphModel dx="1062" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="050BhwA-lb-3kkC8xFKn-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=1;entryY=0.13;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="050BhwA-lb-3kkC8xFKn-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1802" y="340" />
+              <mxPoint x="1802" y="390" />
+            </Array>
+            <mxPoint x="169" y="-107.88000000000011" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="050BhwA-lb-3kkC8xFKn-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=1;entryY=0.3;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="050BhwA-lb-3kkC8xFKn-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1367" y="506" />
+              <mxPoint x="1367" y="556" />
+            </Array>
+            <mxPoint x="245.19999999999982" y="212" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-1" value="研究背景" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1738" y="378" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-2" value="国内外非遗纪录片研究现状" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1249" y="280" width="252" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-3" value="泉州花灯影像传播现状调研" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1551" y="280" width="252" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-4" value="问题与挑战" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1853" y="280" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-5" value="理论支撑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1508" y="477" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-6" value="非遗影像叙事理论" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="992" y="378" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-7" value="数字媒体视听表达理论" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="378" width="220" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-8" value="双线叙事结构理论" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="378" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-9" value="研究方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="575" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-10" value="文献分析法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="826" y="477" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-11" value="案例研究法《一灯一生》" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="477" width="236" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-12" value="影像技术实验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1302" y="477" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-13" value="实践路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="673" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-14" value="文化与技艺内容提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="274" y="575" width="204" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-15" value="双线叙事建构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="528" y="575" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-16" value="数字化拍摄与后期制作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="734" y="575" width="220" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-17" value="镜头语言与叙事节奏设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="575" width="236" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-18" value="效果评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="814" y="771" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-19" value="观众反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="576" y="673" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-20" value="技术与情感效果对比分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="673" width="236" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-21" value="研究结论" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="179" y="870" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-22" value="影像叙事优化策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="771" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-23" value="泉州花灯创新表达路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="258" y="771" width="220" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-24" value="未来非遗纪录片创作启示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="528" y="771" width="236" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-2" target="tjiRpmLf7HI0lHfnD-FT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1375" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.01;entryY=0.01;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-3" target="tjiRpmLf7HI0lHfnD-FT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1677" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.01;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-4" target="tjiRpmLf7HI0lHfnD-FT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1923" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-6" target="tjiRpmLf7HI0lHfnD-FT-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1086" y="452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-7" target="tjiRpmLf7HI0lHfnD-FT-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.6;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-8" target="tjiRpmLf7HI0lHfnD-FT-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1594" y="452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-10" target="tjiRpmLf7HI0lHfnD-FT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="896" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.21;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-11" target="tjiRpmLf7HI0lHfnD-FT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1134" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.61;entryY=0;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-12" target="tjiRpmLf7HI0lHfnD-FT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.42;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-14" target="tjiRpmLf7HI0lHfnD-FT-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="376" y="648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-15" target="tjiRpmLf7HI0lHfnD-FT-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="606" y="648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-16" target="tjiRpmLf7HI0lHfnD-FT-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="844" y="648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6;entryY=0;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-17" target="tjiRpmLf7HI0lHfnD-FT-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1122" y="648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.24;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-19" target="tjiRpmLf7HI0lHfnD-FT-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="638" y="746" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.47;entryY=0.01;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-20" target="tjiRpmLf7HI0lHfnD-FT-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="868" y="746" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-22" target="tjiRpmLf7HI0lHfnD-FT-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-23" target="tjiRpmLf7HI0lHfnD-FT-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="368" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.34;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-24" target="tjiRpmLf7HI0lHfnD-FT-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="646" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.22;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-1" target="tjiRpmLf7HI0lHfnD-FT-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1800" y="452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.21;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-5" target="tjiRpmLf7HI0lHfnD-FT-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1570" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.26;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-9" target="tjiRpmLf7HI0lHfnD-FT-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1352" y="648" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.22;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-13" target="tjiRpmLf7HI0lHfnD-FT-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1098" y="746" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjiRpmLf7HI0lHfnD-FT-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.4;rounded=0;" edge="1" parent="1" source="tjiRpmLf7HI0lHfnD-FT-18" target="tjiRpmLf7HI0lHfnD-FT-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="876" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
