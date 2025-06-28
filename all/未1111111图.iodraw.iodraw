@@ -52,8 +52,11 @@
         <mxCell id="T0sXWa_nDa0mTGTvXhxX-13" value="分析问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T0sXWa_nDa0mTGTvXhxX-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T0sXWa_nDa0mTGTvXhxX-14" value="研究基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T0sXWa_nDa0mTGTvXhxX-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
