@@ -1,212 +1,26 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="xt83zhAGFqE0JsZeTnQ-">
-    <mxGraphModel dx="2647" dy="2209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2817" dy="1294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="050BhwA-lb-3kkC8xFKn-1" value="第五阶段: 理论输出" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="704" width="592" height="222" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-2" value="第四阶段: 效果优化" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="415" width="646" height="247" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-3" value="第三阶段: 实践验证" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="130" width="417" height="264" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-4" value="第二阶段: 技术设计" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="-178" width="743" height="264" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-5" value="第一阶段: 基础研究" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-61.5" y="-472" width="846" height="222" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-6" value="研究问题提出" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="168.5" y="-570" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-7" value="文献综述与现状分析" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="144.5" y="-447" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-8" value="研究设计与方法" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="169" y="-153" width="172" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-9" value="创作实践与数据采集" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="184" y="164" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-10" value="后期制作与效果评估" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="133" y="440" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-11" value="成果总结与理论提炼" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="214" y="729" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-12" value="梳理非遗纪录片叙事理论" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-26.5" y="-323" width="236" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-13" value="分析泉州花灯文化特征" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="259.5" y="-323" width="220" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-14" value="评述数字技术应用案例" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="529.5" y="-323" width="220" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-15" value="双线叙事结构设计:&#xa;人物故事+技艺展示" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="25" y="-5" width="196" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-16" value="拍摄技术方案:&#xa;航拍/微距/运镜" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="272" y="-5" width="173" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-17" value="声音与色彩调控方案" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="494" y="4" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-18" value="实地拍摄:&#xa;- 匠人访谈&#xa;- 工艺记录" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="192" y="321" width="130" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-19" value="技术应用:&#xa;- 多角度镜头语言&#xa;- 动态音效采集" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="372" y="321" width="130" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-20" value="剪辑实验:&#xa;- 节奏控制&#xa;- 视听融合" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="73" y="588" width="130" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-21" value="观众反馈测试" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="253" y="588" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-22" value="多平台适配调整" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="459" y="588" width="172" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-23" value="总结非遗纪录片创作方法论" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="55" y="852" width="252" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-24" value="提出数字技术应用框架" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="357" y="852" width="220" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-6" target="050BhwA-lb-3kkC8xFKn-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=1;entryY=0.34;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-7" target="050BhwA-lb-3kkC8xFKn-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="830" y="-203" />
-              <mxPoint x="830" y="-178" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=1;entryY=0.13;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-8" target="050BhwA-lb-3kkC8xFKn-9" edge="1">
+        <mxCell id="050BhwA-lb-3kkC8xFKn-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=1;entryY=0.13;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="050BhwA-lb-3kkC8xFKn-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1802" y="340" />
               <mxPoint x="1802" y="390" />
             </Array>
+            <mxPoint x="169" y="-107.88000000000011" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=1;entryY=0.3;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-9" target="050BhwA-lb-3kkC8xFKn-10" edge="1">
+        <mxCell id="050BhwA-lb-3kkC8xFKn-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=1;entryY=0.3;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="050BhwA-lb-3kkC8xFKn-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1367" y="506" />
               <mxPoint x="1367" y="556" />
             </Array>
+            <mxPoint x="245.19999999999982" y="212" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=1;entryY=0.23;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-10" target="050BhwA-lb-3kkC8xFKn-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint y="500" />
-              <mxPoint x="-20" y="690" />
-              <mxPoint x="700" y="704" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-7" target="050BhwA-lb-3kkC8xFKn-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="91.5" y="-373" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-7" target="050BhwA-lb-3kkC8xFKn-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="369.5" y="-373" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-7" target="050BhwA-lb-3kkC8xFKn-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="639.5" y="-373" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-8" target="050BhwA-lb-3kkC8xFKn-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="123" y="-80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-8" target="050BhwA-lb-3kkC8xFKn-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="358" y="-80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-8" target="050BhwA-lb-3kkC8xFKn-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="596" y="-80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-9" target="050BhwA-lb-3kkC8xFKn-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="257" y="246" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-9" target="050BhwA-lb-3kkC8xFKn-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="437" y="246" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-10" target="050BhwA-lb-3kkC8xFKn-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="138" y="513" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-10" target="050BhwA-lb-3kkC8xFKn-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="331" y="513" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-10" target="050BhwA-lb-3kkC8xFKn-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="545" y="513" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-11" target="050BhwA-lb-3kkC8xFKn-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="181" y="802" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-11" target="050BhwA-lb-3kkC8xFKn-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="467" y="802" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="050BhwA-lb-3kkC8xFKn-43" value="Start" style="ellipse;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="430" y="830" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
