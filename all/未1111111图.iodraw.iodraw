@@ -25,7 +25,7 @@
             <mxPoint x="590" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0sXWa_nDa0mTGTvXhxX-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="T0sXWa_nDa0mTGTvXhxX-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="T0sXWa_nDa0mTGTvXhxX-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="370" as="sourcePoint" />
             <mxPoint x="640" y="130" as="targetPoint" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="T0sXWa_nDa0mTGTvXhxX-8" value="现有花灯纪录片内容表面化、叙事单一，缺乏故事化表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T0sXWa_nDa0mTGTvXhxX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
