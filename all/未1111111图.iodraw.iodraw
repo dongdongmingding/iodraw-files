@@ -7,6 +7,12 @@
         <mxCell id="T0sXWa_nDa0mTGTvXhxX-1" value="微纪录片《一灯一生》的创作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="50" width="496" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T0sXWa_nDa0mTGTvXhxX-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="sourcePoint" />
+            <mxPoint x="360" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
