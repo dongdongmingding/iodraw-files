@@ -108,6 +108,7 @@
         <mxCell id="050BhwA-lb-3kkC8xFKn-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=1;entryY=0.23;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-10" target="050BhwA-lb-3kkC8xFKn-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint y="500" />
               <mxPoint x="700" y="654" />
               <mxPoint x="700" y="704" />
             </Array>
