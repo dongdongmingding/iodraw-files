@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="xt83zhAGFqE0JsZeTnQ-">
-    <mxGraphModel dx="2692" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3314" dy="1510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="20" y="415" width="646" height="247" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-3" value="第三阶段: 实践验证" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1298" y="390" width="417" height="264" as="geometry" />
+          <mxGeometry x="120" y="130" width="417" height="264" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-4" value="第二阶段: 技术设计" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1735" y="242" width="743" height="264" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="1914" y="267" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-9" value="创作实践与数据采集" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1362" y="424" width="204" height="48" as="geometry" />
+          <mxGeometry x="184" y="164" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-10" value="后期制作与效果评估" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="133" y="440" width="204" height="48" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry x="2239" y="424" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-18" value="实地拍摄:&#xa;- 匠人访谈&#xa;- 工艺记录" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="581" width="130" height="48" as="geometry" />
+          <mxGeometry x="192" y="321" width="130" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-19" value="技术应用:&#xa;- 多角度镜头语言&#xa;- 动态音效采集" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="581" width="130" height="48" as="geometry" />
+          <mxGeometry x="372" y="321" width="130" height="48" as="geometry" />
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-20" value="剪辑实验:&#xa;- 节奏控制&#xa;- 视听融合" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="73" y="588" width="130" height="48" as="geometry" />
@@ -159,14 +159,14 @@
         <mxCell id="050BhwA-lb-3kkC8xFKn-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-9" target="050BhwA-lb-3kkC8xFKn-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1435" y="506" />
+              <mxPoint x="257" y="246" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="050BhwA-lb-3kkC8xFKn-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="050BhwA-lb-3kkC8xFKn-9" target="050BhwA-lb-3kkC8xFKn-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1615" y="506" />
+              <mxPoint x="437" y="246" />
             </Array>
           </mxGeometry>
         </mxCell>
