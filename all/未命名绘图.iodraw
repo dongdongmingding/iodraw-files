@@ -175,6 +175,9 @@
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-59" value="和麋鹿对话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5asLuAldsw1yy-ZM-Y-3-60" value="和小狗对话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
