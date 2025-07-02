@@ -82,8 +82,8 @@
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5asLuAldsw1yy-ZM-Y-3-40" target="5asLuAldsw1yy-ZM-Y-3-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="1210" />
-              <mxPoint x="660" y="1120" />
+              <mxPoint x="660" y="950" />
+              <mxPoint x="660" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -93,22 +93,22 @@
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5asLuAldsw1yy-ZM-Y-3-40" target="5asLuAldsw1yy-ZM-Y-3-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="1210" />
-              <mxPoint x="660" y="1300" />
+              <mxPoint x="660" y="950" />
+              <mxPoint x="660" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-40" value="UI设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-41" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-42" value="按键说明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-43" value="退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5asLuAldsw1yy-ZM-Y-3-47" target="5asLuAldsw1yy-ZM-Y-3-48">
           <mxGeometry relative="1" as="geometry" />
