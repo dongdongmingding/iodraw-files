@@ -29,7 +29,7 @@
           <mxGeometry x="510" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-6" value="树木" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="-70" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-8" value="草丛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="10" width="120" height="60" as="geometry" />
