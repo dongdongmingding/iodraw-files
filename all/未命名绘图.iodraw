@@ -61,6 +61,9 @@
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-26" value="桥体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5asLuAldsw1yy-ZM-Y-3-27" value="栅栏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
