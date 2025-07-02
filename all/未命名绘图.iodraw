@@ -140,10 +140,10 @@
           <mxGeometry x="707" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-50" value="贴图资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-51" value="树木资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5asLuAldsw1yy-ZM-Y-3-52" value="云彩粒子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="1810" width="120" height="60" as="geometry" />
